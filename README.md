@@ -18,3 +18,21 @@ Our greatest success was how well our discussion played out. Everyone was inputt
 ### Video Reference
 I provided this video in our discussion as a way to describe how we can explore this interactve art experience.
 https://youtu.be/3D6G6KHx5Cg?si=HVL5NE5SQ-QhGkIo&t=68
+
+## Blog 3
+2/11/2025
+### Brief Overview
+Our idea has been through multiple refinements and edits, although it seems we have finally agreed upon something we are all eager and interested in developing. We have decided to focos on the early Canadian artist Cornelius Krieghoff. We decided that it was a great way to incoorpate environment building, Canadian art, and an interesting experience. The goal is to have the user start in a studio, to which they must enter grayscaled paintings of Cornelius, expereince the environemnt, and solve the puzzle in order to get the full painting back in the studio. We have selected a couple paintings of his to branch off from.
+
+### Challenge
+We defenitely struggled this week in terms of brainstorming. Our idea kept getting close to attruition until we all decided to try something different. It was not until we decided to make our scope clear and focus on something we all were intereste in that we came up with this idea.
+
+### Successes
+Luckily everyone played into their roles quite well. All of our roles were discussed and it seemed we were all in agreement and have a great share of responsibility between the 5 of us.
+
+#### Hours
+4
+
+### Video Reference
+http://youtube.com/watch?v=X589P7RHgOk
+
