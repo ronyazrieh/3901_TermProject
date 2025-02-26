@@ -33,6 +33,17 @@ Luckily everyone played into their roles quite well. All of our roles were discu
 #### Hours
 4
 
-### Video Reference
-http://youtube.com/watch?v=X589P7RHgOk
+## Blog 4
+2/25/2025
+### Brief Overview
+This week we decided to reinforce previous discussions and also begin dictating tasks and developing our product for the Beta. We decided for the beta that our focus is going to be on enhacninhg the initial spawn and intro set and intearctions, while also beginning development on the secondary stage intearctions and "1st level". The environemnt we chose to focus on for the beta is the "Raft in Autumn" painting. This is specifcally what I have been tasked with and will begin development on. The focus is to finalize the teleportation intearctioon, with a new voting system (similiar to Microsfots Sea of Thieves), and also begin production on the raft building intearction for the story progression. A teammate also introduced us to a repo that involves adding weather particle systems into A-Frame, so I will also test it out and see if it can be implemented. This was also the time that I spent creating the protoype for the alpha in which I was able to creaete a rudimentary version of the teleportation system.
+
+### Challenge
+While it was not a challenge per se, Jason and I had to clarify and decide how we wanted to split up the programming section of the project as we both displayed interst in that being our main priority. Another challenege that I have to get resolved is using the Nav Mesh sytem.
+
+### Successes
+Our disucsiion went well and eeveryone was able to bring something to the table to share, wheter that be assets they created, found or even integrating different repositories for weather systems. 
+
+#### Hours
+8
 
