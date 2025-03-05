@@ -47,3 +47,18 @@ Our disucsiion went well and eeveryone was able to bring something to the table 
 #### Hours
 8
 
+## Blog 5
+3/4/2025
+### Brief Overview
+This weeks main focus was preparing for our beta. My main focus was beginning to build the interactions on the second environemtn. Unfortuantely this week was not as productive as I hoped. I had a huge amount of deadlines that I had to sink time to so I was not able to complete the amount I desired to. Although I did manage to implement the artifact placement feature that was in my previous assingment into this. My main goal is seeing how I can streamline that process with some of the features avaiable in in CirclesXR
+
+### Challenge
+Time Time and Time. Again the issue was not being able to put it in as much time as I would ahve hoped for.
+
+### Successes
+The implemeentation went somewhat well. I just hope to be able to incoorpearte more features from CirclesXR into the interaction, such as the holding mechanic
+
+#### Hours
+2
+
+
