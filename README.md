@@ -61,4 +61,19 @@ The implemeentation went somewhat well. I just hope to be able to incoorpearte m
 #### Hours
 2
 
+## Blog 6
+3/11/2025
+### Brief Overview
+This week again was prepping for the beta. I managed to build upon the game manager entity which will be hosting the quests for the user. Currently there has been a new manager script for the Raft in Autumn. This is what I worked on during this time. I managed to alloow the users to begin the quest when the teleport and change environment occurs. It spawns four logs which the user can interact with. The logs spawn for all connected users. I managed to also figure out how to streamline this intearction quite well by restrcuturing how I planned to create the code. I am now going to take advantage of circles alrready implemented pickup object feature rather than create a new pickup feature. The reason i was going to do this initially is because I beleived I had to create something new in order to introduce the feature of also placing the item on the raft. Although my new idea is to make it so that this occurs simply based on collision. Once the user brings the log to a certain point and collides with the zone. The log is deleted and it appears on the model. This will mimic the feature of placing the log down but require a lot less difficulties. 
+
+### Challenge
+My main challenge was implementing the new features on game manager, although these were just normal regular bugs tha were able to be fixed.
+
+### Successes
+The new strcuture of how the intearction will work has shifted the amount of time and effort needed to create the intearction.
+
+#### Hours
+6
+
+
 
