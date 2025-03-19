@@ -75,5 +75,19 @@ The new strcuture of how the intearction will work has shifted the amount of tim
 #### Hours
 6
 
+## Blog 7
+3/18/2025
+### Brief Overview
+The prior streamlining that I thought I figured out presetnedd some unusual bugs that I managed to overcome. Although now I was able to compelte this feature. Completing the quest for the first room. I just need to fix a small issue where the logs are not moving perfectly through websockets. This should not be too much of an issue. This week was the most intensive and unfortunately a lot of problems arised. I wanted to mainly work on completing this feature altough due to unforseen circumstances I had to work on thigns outside of my assigned scope. This was due to mismanagement and a lack of completion on other specified parts, specifcally set dressing the first room. While this is an issue that arises in group settings luckily with some overworked nights I and another team member were able to bring the studio to a subpar level of satsifation. This did however remove time from working on completing the quest completion process.
+
+### Challenge
+Some bugs resulted in the online feature not working as intended although a fix is currently in developmet. I also had to focus on things outside my assigned scope due to mismanagement.
+
+### Successes
+I playable quest is now avaialbe and the first quest interaction is complete.
+
+#### Hours
+9
+
 
 
