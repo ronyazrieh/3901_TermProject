@@ -89,5 +89,20 @@ I playable quest is now avaialbe and the first quest interaction is complete.
 #### Hours
 9
 
+## Blog 8
+3/18/2025
+### Brief Overview
+Good progress was made during this week. I was able to finish the RIA-manager script. Allowing users to complete the mission and get teleported back. Much of this time was spent making sure users were able to get returned back to the original position. The difficulty arises with the fact that users have to simultaneously agree to go back resulting in the world changing for everyone. A new voting interaction had to be created that allowed the users to agree to complete the mission and get returned. We were also experimenting with optimization and managed to lower the load on the world, allowing for a smoother start up. This also in turn benefited the teleport feature as it removed a bug where users would be stuck mid air in the void for a while when returning back. I am hoping that my other team member can pick up some tasks and hopefully they can follow the process I did to create this mission to create our final mission/world. I am increasing communication with this team member to make sure they are able to complete this task without trouble, although it has begun taking a toll trying to work on my given tasks while feeling that I have to supervise another member. Hopefully this week they are able to make decent progression, while I create a feature providing users with checklists and zones to create story progression elements. This includes things such as signs guiding users. Zones that trigger voicelines to guide the user.
+
+### Challenge
+The main challenege is focusing on my tasks while also needing to supervise other tasks in order to make the much needed progression.
+
+### Successes
+Optimization has greatly improved and code has been better organized for a easy 2nd rendition of interaciton.
+
+#### Hours
+9
+
+
 
 
